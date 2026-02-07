@@ -40,6 +40,14 @@ h1 {
   line-height: 1.15;
 }
 
+.hero-platform {
+  display: block;
+  font-size: 0.6em;
+  color: var(--muted);
+  font-weight: 500;
+  margin-top: 8px;
+}
+
 h2 {
   font-size: clamp(1.8rem, 3vw, 2.2rem);
   line-height: 1.2;
