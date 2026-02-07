@@ -198,6 +198,10 @@ h3 {
   color: var(--muted);
 }
 
+.cta .meta {
+  margin-top: 10px;
+}
+
 .hero-visual {
   display: flex;
   justify-content: center;
