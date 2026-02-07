@@ -209,6 +209,13 @@ h3 {
   justify-content: center;
 }
 
+@media (min-width: 701px) {
+  .hero-visual {
+    align-self: flex-start;
+    margin-top: -28px;
+  }
+}
+
 .visual-card {
   width: min(420px, 100%);
   padding: 32px;
